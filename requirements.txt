@@ -1,2 +1,1 @@
-virtualenv==16.2.0
-virtualenvwrapper-win==1.2.5
+Pillow==5.2.0
